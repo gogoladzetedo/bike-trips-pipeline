@@ -1,0 +1,15 @@
+creds/
+__pycache__/
+bike-env/
+*.pyc
+steps.txt
+test.py
+*/__pycache__/
+*/__pycache__
+*/__pycache__/*
+data/dc/bike/*
+data/dc/taxi/*
+data/ny/bike/*
+data/ny/taxi/*
+*.csv
+*.txt
